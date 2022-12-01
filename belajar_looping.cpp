@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int mian(){
+int main(){
 
     //for
     for (int i=0; i<= 5; i++)
@@ -25,6 +25,6 @@ int mian(){
 }while(y<=3);
 
 
-
+return 0;
 
 }
