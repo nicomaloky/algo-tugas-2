@@ -3,9 +3,9 @@
 using namespace std;
 
 int main(){
-
+    int i=0;
     //for
-    for (int i=0; i<= 5; i++)
+    for ( ;i<= 5; i++)
 
 {
     cout<< "perulangan for : "<< i <<endl;
