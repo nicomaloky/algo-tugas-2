@@ -89,7 +89,7 @@ int main(){
     		cout << rankine << " Ra = " << kelvin 	 	<< " K\n";
     		cout << rankine << " Ra = " << reamur 		<< "R\n";
 	break;
-	default : cout<< "isi yang bener kontol\n";
+	default : cout<< "isi yang bener\n";
 				cout<< "===================\n";
 	return (0);
 }
